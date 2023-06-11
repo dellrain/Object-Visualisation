@@ -1,0 +1,83 @@
+{
+    "1": [
+      {
+        "name": "Tp-link 1-p 2.4",
+        "model": "Tp-link",
+        "x": 70,
+        "y": 95
+      },
+      {
+        "name": "Tp-m lk 5",
+        "model": "Tp-m lk",
+        "x": 340,
+        "y": 130
+      },
+      {
+        "name": "Tp-m new 5",
+        "model": "Tp-m new",
+        "x": 200,
+        "y": 100
+      }
+    ],
+    "2": [
+      {
+        "name": "ZeroR 55-r 2.4",
+        "model": "ZeroR",
+        "x": 610,
+        "y": 370
+      },
+      {
+        "name": "D-link 1 5",
+        "model": "D-link",
+        "x": 230,
+        "y": 200
+      },
+      {
+        "name": "Tp-link 12 2.4",
+        "model": "Tp-link",
+        "x": 430,
+        "y": 140
+      }
+    ],
+    "3": [
+      {
+        "name": "Tenda d305 2.4",
+        "model": "Tenda",
+        "x": 0,
+        "y": 0
+      },
+      {
+        "name": "MtS 1 2.4",
+        "model": "MtS",
+        "x": 694,
+        "y": 423
+      },
+      {
+        "name": "MegR mini 2.4",
+        "model": "MegR",
+        "x": 347,
+        "y": 211.5
+      }
+    ],
+    "4": [
+      {
+        "name": "Tenda a005 5",
+        "model": "Tenda",
+        "x": 100,
+        "y": 100
+      },
+      {
+        "name": "Tp-link lc5 5",
+        "model": "Tp-link",
+        "x": 300,
+        "y": 300
+      },
+      {
+        "name": "Topaz ruby 5",
+        "model": "Topaz",
+        "x": 400,
+        "y": 400
+      }
+    ]
+  }
+  

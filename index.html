@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Визуализация объектов на плане здания</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <h1>Визуализация объектов на плане здания</h1>
+
+
+
+    <div>
+        <input type="checkbox" id="showRoutersCheckbox" onchange="toggleObjectVisibility('router')">
+        <label for="showRoutersCheckbox">Роутеры</label>
+    </div>
+    <div>
+        <input type="checkbox" id="showServersCheckbox" onchange="toggleObjectVisibility('server')">
+        <label for="showServersCheckbox">Серверы</label>
+    </div>
+    <div>
+        <input type="checkbox" id="showComputersCheckbox" onchange="toggleObjectVisibility('computer')">
+        <label for="showComputersCheckbox">Компьютеры</label>
+    </div>
+
+    <div style="margin: 5px 0" ;>
+        <button onclick="selectAll()">Выбрать все</button>
+        <button onclick="clearSelection()">Очистить</button>
+    </div>
+    </div>
+
+    <div id="floorPlanContainer">
+
+
+        <button class="sidebar-button" onclick="toggleSidebar()">
+            <div class="vertical-line"></div>
+            <div class="vertical-line"></div>
+            <div class="vertical-line"></div>
+        </button>
+
+        <div class="floors">
+            <div class="floor-button">
+                <input checked="true" type="radio" name="floor" value="1" id="floor1" onchange="showFloorPlan(1)">
+                <label for="floor1">1</label>
+            </div>
+            <div class="floor-button">
+                <input type="radio" name="floor" value="2" id="floor2" onchange="showFloorPlan(2)">
+                <label for="floor2">2</label>
+            </div>
+            <div class="floor-button">
+                <input type="radio" name="floor" value="3" id="floor3" onchange="showFloorPlan(3)">
+                <label for="floor3">3</label>
+            </div>
+            <div class="floor-button">
+                <input type="radio" name="floor" value="4" id="floor4" onchange="showFloorPlan(4)">
+                <label for="floor4">4</label>
+            </div>
+        </div>
+
+        <div class="sidebar"> </div>
+
+
+        <div class="floorPlan">
+            <div id="objectsContainer"></div>
+            <img src="/assets/1.png" alt="План этажа" id="floorPlanImage">
+        </div>
+
+
+
+        <script src="js/script.js"></script>
+    </div>    
+</body>
+
+</html>

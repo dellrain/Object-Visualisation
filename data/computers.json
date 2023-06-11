@@ -1,0 +1,203 @@
+{
+    "1": [
+      {
+        "name": "Computer 1",
+        "model": "Model 1",
+        "x": 5,
+        "y": 0
+      },
+      {
+        "name": "Computer 2",
+        "model": "Model 2",
+        "x": 30,
+        "y": 0
+      },
+      {
+        "name": "Computer 3",
+        "model": "Model 3",
+        "x": 55,
+        "y": 0
+      },
+      {
+        "name": "Computer 4",
+        "model": "Model 4",
+        "x": 80,
+        "y": 0
+      },
+      {
+        "name": "Computer 5",
+        "model": "Model 5",
+        "x": 105,
+        "y": 0
+      },
+      {
+        "name": "Computer 6",
+        "model": "Model 6",
+        "x": 130,
+        "y": 0
+      },
+      {
+        "name": "Computer 7",
+        "model": "Model 7",
+        "x": 5,
+        "y": 40
+      },
+      {
+        "name": "Computer 8",
+        "model": "Model 8",
+        "x": 5,
+        "y": 65
+      }
+    ],
+    "2": [
+      {
+        "name": "Computer 9",
+        "model": "Model 9",
+        "x": 345,
+        "y": 25
+      },
+      {
+        "name": "Computer 10",
+        "model": "Model 10",
+        "x": 345,
+        "y": 0
+      },
+      {
+        "name": "Computer 11",
+        "model": "Model 11",
+        "x": 370,
+        "y": 0
+      },
+      {
+        "name": "Computer 12",
+        "model": "Model 12",
+        "x": 395,
+        "y": 0
+      },
+      {
+        "name": "Computer 13",
+        "model": "Model 13",
+        "x": 420,
+        "y": 0
+      },
+      {
+        "name": "Computer 14",
+        "model": "Model 14",
+        "x": 430,
+        "y": 80
+      },
+      {
+        "name": "Computer 15",
+        "model": "Model 15",
+        "x": 405,
+        "y": 80
+      },
+      {
+        "name": "Computer 16",
+        "model": "Model 16",
+        "x": 380,
+        "y": 80
+      }
+    ],
+    "3": [
+      {
+        "name": "Computer 17",
+        "model": "Model 17",
+        "x": 101,
+        "y": 1
+      },
+      {
+        "name": "Computer 18",
+        "model": "Model 18",
+        "x": 103,
+        "y": 3
+      },
+      {
+        "name": "Computer 19",
+        "model": "Model 19",
+        "x": 105,
+        "y": 5
+      },
+      {
+        "name": "Computer 20",
+        "model": "Model 20",
+        "x": 107,
+        "y": 7
+      },
+      {
+        "name": "Computer 21",
+        "model": "Model 21",
+        "x": 109,
+        "y": 9
+      },
+      {
+        "name": "Computer 22",
+        "model": "Model 22",
+        "x": 111,
+        "y": 11
+      },
+      {
+        "name": "Computer 23",
+        "model": "Model 23",
+        "x": 113,
+        "y": 13
+      },
+      {
+        "name": "Computer 24",
+        "model": "Model 24",
+        "x": 115,
+        "y": 15
+      }
+    ],
+    "4": [
+      {
+        "name": "Computer 25",
+        "model": "Model 25",
+        "x": 201,
+        "y": 101
+      },
+      {
+        "name": "Computer 26",
+        "model": "Model 26",
+        "x": 203,
+        "y": 103
+      },
+      {
+        "name": "Computer 27",
+        "model": "Model 27",
+        "x": 205,
+        "y": 105
+      },
+      {
+        "name": "Computer 28",
+        "model": "Model 28",
+        "x": 207,
+        "y": 107
+      },
+      {
+        "name": "Computer 29",
+        "model": "Model 29",
+        "x": 209,
+        "y": 109
+      },
+      {
+        "name": "Computer 30",
+        "model": "Model 30",
+        "x": 211,
+        "y": 111
+      },
+      {
+        "name": "Computer 31",
+        "model": "Model 31",
+        "x": 213,
+        "y": 113
+      },
+      {
+        "name": "Computer 32",
+        "model": "Model 32",
+        "x": 215,
+        "y": 115
+      }
+    ]
+  }
+  

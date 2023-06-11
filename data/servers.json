@@ -1,0 +1,34 @@
+{
+    "1": [
+      {
+        "name": "Server 8",
+        "model": "Model 8",
+        "x": 315,
+        "y": 225
+      }
+    ],
+    "2": [
+      {
+        "name": "Server 16",
+        "model": "Model 16",
+        "x": 440,
+        "y": 220
+      }
+    ],
+    "3": [
+      {
+        "name": "Server 24",
+        "model": "Model 24",
+        "x": 215,
+        "y": 115
+      }
+    ],
+    "4": [
+      {
+        "name": "Server 25",
+        "model": "Model 25",
+        "x": 201,
+        "y": 101
+      }
+    ]
+}
